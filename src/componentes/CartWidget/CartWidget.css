@@ -1,0 +1,65 @@
+.cart-widget {
+  list-style: none;
+  display: flex;
+  align-items: center; /* Alinea verticalmente el CartWidget */
+}
+
+.boton-carrito {
+  background: none; 
+  border: none;
+  color: white; /* Cambia el color a amarillo para mayor visibilidad */
+  cursor: pointer;
+  font-size: 1.5rem;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
+
+.boton-carrito .fa-shopping-cart {
+  margin-right: 0.5rem;
+  color: yellow; /* Cambia el color del icono a amarillo */
+}
+
+.contadorCarrito {
+  background-color: red;
+  border-radius: 50%;
+  color: white;
+  padding: 0.2rem 0.5rem;
+  font-size: 1rem;
+  position: absolute;
+  top: -10px;
+  right: -10px;
+}
+
+/* Media queries for tablets and smaller devices */
+@media (max-width: 768px) {
+  .boton-carrito {
+    font-size: 1.2rem; /* Ajusta el tamaño del botón para pantallas más pequeñas */
+  }
+
+  .contadorCarrito {
+    font-size: 0.9rem; /* Ajusta el tamaño del contador para pantallas más pequeñas */
+  }
+
+  .cart-widget {
+    justify-content: center; /* Alinea horizontalmente el CartWidget */
+    width: 100%;
+  }
+}
+
+/* Media queries for mobile */
+@media (max-width: 480px) {
+  .boton-carrito {
+    font-size: 1rem; /* Ajusta el tamaño del botón para pantallas muy pequeñas */
+  }
+
+  .contadorCarrito {
+    font-size: 0.8rem; /* Ajusta el tamaño del contador para pantallas muy pequeñas */
+  }
+
+  .cart-widget {
+    justify-content: center; /* Alinea horizontalmente el CartWidget */
+    width: 100%;
+  }
+}

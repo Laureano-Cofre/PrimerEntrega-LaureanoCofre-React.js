@@ -1,0 +1,157 @@
+/* Global styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Oswald', sans-serif;
+}
+
+/* Item list container styles */
+.item-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.producto {
+  border: 1px solid #020202;
+  border-radius: 5px;
+  padding: 1rem;
+  text-align: center;
+  width: 15rem;
+  height: 420px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.producto img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.producto img:hover {
+  scale: 1.2;
+}
+
+.producto h3 {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+  color: #020202;
+}
+
+.producto p {
+  margin: 0.2rem 0;
+  color: black;
+}
+
+.precioProducto {
+  font-weight: bold;
+  color: hsl(0, 0%, 47%);
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: auto;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.containerOpciones {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  padding: 5rem;
+  flex-wrap: wrap;
+}
+
+.opcion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.opcion img {
+  width: 25rem;
+  height: auto;
+  object-fit: cover;
+  border-radius: 1rem;
+}
+
+.opcion:hover img {
+  transform: scale(1.1);
+}
+
+.containerBoton {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+/* Media queries for tablets and smaller devices */
+@media (max-width: 768px) {
+  .producto {
+    width: 12rem;
+    height: auto;
+  }
+
+  .opcion img {
+    width: 20rem;
+  }
+
+  .containerOpciones {
+    padding: 2rem;
+    gap: 1rem;
+  }
+}
+
+/* Media queries for mobile */
+@media (max-width: 480px) {
+  .producto {
+    width: 100%;
+    height: auto;
+  }
+
+  .opcion img {
+    width: 100%;
+  }
+
+  .containerOpciones {
+    flex-direction: column;
+    padding: 1rem;
+  }
+}

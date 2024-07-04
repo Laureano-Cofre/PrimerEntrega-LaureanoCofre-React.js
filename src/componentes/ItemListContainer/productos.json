@@ -1,0 +1,541 @@
+[
+    {
+        "id": "ccr-01",
+        "titulo": "Creedence Clearwater Revival",
+        "imagen": "./public/img/ccr/01.jpg",
+        "banda": "Creedence Clearwater Revival",
+        "categoria": {
+            "nombre": "Creedence Clearwater Revival",
+            "id": "creedence"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "ccr-02",
+        "titulo": "Bayou Country",
+        "imagen": "./public/img/ccr/02.jpg",
+        "banda": "Creedence Clearwater Revival",
+        "categoria": {
+            "nombre": "Creedence Clearwater Revival",
+            "id": "creedence"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "ccr-03",
+        "titulo": "Pendulum",
+        "imagen": "./public/img/ccr/03.jpg",
+        "banda": "Creedence Clearwater Revival",
+        "categoria": {
+            "nombre": "Creedence Clearwater Revival",
+            "id": "creedence"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "ccr-04",
+        "titulo": "Green River",
+        "imagen": "./public/img/ccr/04.jpg",
+        "banda": "Creedence Clearwater Revival",
+        "categoria": {
+            "nombre": "Creedence Clearwater Revival",
+            "id": "creedence"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "ccr-05",
+        "titulo": "Cosmo's Factory",
+        "imagen": "./public/img/ccr/05.jpg",
+        "banda": "Creedence Clearwater Revival",
+        "categoria": {
+            "nombre": "Creedence Clearwater Revival",
+            "id": "creedence"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "ccr-06",
+        "titulo": "Willy and The Poor Boys",
+        "imagen": "./public/img/ccr/06.jpg",
+        "banda": "Creedence Clearwater Revival",
+        "categoria": {
+            "nombre": "Creedence Clearwater Revival",
+            "id": "creedence"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "ccr-07",
+        "titulo": "Mardi Gras",
+        "imagen": "./public/img/ccr/07.jpg",
+        "banda": "Creedence Clearwater Revival",
+        "categoria": {
+            "nombre": "Creedence Clearwater Revival",
+            "id": "creedence"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-01",
+        "titulo": "The Rolling Stones",
+        "imagen": "./public/img/trs/1.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-02",
+        "titulo": "12 x 5",
+        "imagen": "./public/img/trs/2.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-03",
+        "titulo": "The Rolling Stones No.2",
+        "imagen": "./public/img/trs/3.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-04",
+        "titulo": "The Rolling Stones, Now! ",
+        "imagen": "./public/img/trs/4.jpg",
+                "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-05",
+        "titulo": "Out of Our Heads",
+        "imagen": "./public/img/trs/5.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-06",
+        "titulo": "December's Children (And Everybody's) ",
+        "imagen": "./public/img/trs/6.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-07",
+        "titulo": "Aftermath",
+        "imagen": "./public/img/trs/7.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-08",
+        "titulo": "Between the Buttons",
+        "imagen": "./public/img/trs/8.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-09",
+        "titulo": "Flowers",
+        "imagen": "./public/img/trs/9.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-10",
+        "titulo": "Their Satanic Majesties Request",
+        "imagen": "./public/img/trs/10.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-11",
+        "titulo": "Beggars Banquet",
+        "imagen": "./public/img/trs/11.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-12",
+        "titulo": "Let It Bleed",
+        "imagen": "./public/img/trs/12.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-13",
+        "titulo": "Sticky Fingers",
+        "imagen": "./public/img/trs/13.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-14",
+        "titulo": "Exile on Main St.",
+        "imagen": "./public/img/trs/14.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-15",
+        "titulo": "Goats Head Soup",
+        "imagen": "./public/img/trs/15.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-16",
+        "titulo": "It's Only Rock'n'Roll",
+        "imagen": "./public/img/trs/16.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-17",
+        "titulo": "Black and Blue",
+        "imagen": "./public/img/trs/17.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-18",
+        "titulo": "Some Girls",
+        "imagen": "./public/img/trs/18.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-19",
+        "titulo": "Emotional Rescue",
+        "imagen": "./public/img/trs/19.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-20",
+        "titulo": "Tattoo You",
+        "imagen": "./public/img/trs/20.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-21",
+        "titulo": "Undercover",
+        "imagen": "./public/img/trs/21.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-22",
+        "titulo": "Dirty Work",
+        "imagen": "./public/img/trs/22.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-23",
+        "titulo": "Steel Wheels",
+        "imagen": "./public/img/trs/23.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-24",
+        "titulo": "Voodoo Lounge",
+        "imagen": "./public/img/trs/24.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-25",
+        "titulo": "Bridges to Babylon",
+        "imagen": "./public/img/trs/25.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-26",
+        "titulo": "A Bigger Bang",
+        "imagen": "./public/img/trs/26.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-27",
+        "titulo": "Blue & Lonesome",
+        "imagen": "./public/img/trs/27.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "therollingstones-28",
+        "titulo": "Hackney Diamonds",
+        "imagen": "./public/img/trs/28.jpg",
+        "banda": "The Rolling Stones",
+        "categoria": {
+            "nombre": "The Rolling Stones",
+            "id": "therollingstones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "thebeatles-01",
+        "titulo": "Please Please Me",
+        "imagen": "./public/img/tb/1.jpg",
+        "banda": "The Beatles",
+        "categoria": {
+            "nombre": "The Beatles",
+            "id": "thebeatles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "thebeatles-02",
+        "titulo": "With the Beatles ",
+        "imagen": "./public/img/tb/2.jpg",
+        "banda": "The Beatles",
+        "categoria": {
+            "nombre": "The Beatles",
+            "id": "thebeatles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "thebeatles-03",
+        "titulo": "A Hard Day's Night",
+        "imagen": "./public/img/tb/3.jpg",
+        "banda": "The Beatles",
+        "categoria": {
+            "nombre": "The Beatles",
+            "id": "thebeatles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "thebeatles-04",
+        "titulo": "Beatles for Sale",
+        "imagen": "./public/img/tb/4.jpg",
+        "banda": "The Beatles",
+        "categoria": {
+            "nombre": "The Beatles",
+            "id": "thebeatles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "thebeatles-05",
+        "titulo": "Help!",
+        "imagen": "./public/img/tb/5.jpg",
+        "banda": "The Beatles",
+        "categoria": {
+            "nombre": "The Beatles",
+            "id": "thebeatles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "thebeatles-06",
+        "titulo": "Rubber Soul",
+        "imagen": "./public/img/tb/6.jpg",
+        "banda": "The Beatles",
+        "categoria": {
+            "nombre": "The Beatles",
+            "id": "thebeatles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "thebeatles-07",
+        "titulo": "Revolver",
+        "imagen": "./public/img/tb/7.jpg",
+        "banda": "The Beatles",
+        "categoria": {
+            "nombre": "The Beatles",
+            "id": "thebeatles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "thebeatles-08",
+        "titulo": "Sgt. Pepper's Lonely Hearts Club Band",
+        "imagen": "./public/img/tb/8.jpg",
+        "banda": "The Beatles",
+        "categoria": {
+            "nombre": "The Beatles",
+            "id": "thebeatles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "thebeatles-09",
+        "titulo": "Magical Mystery Tour",
+        "imagen": "./public/img/tb/9.jpg",
+        "banda": "The Beatles",
+        "categoria": {
+            "nombre": "The Beatles",
+            "id": "thebeatles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "thebeatles-10",
+        "titulo": "The Beatles (The White Album)",
+        "imagen": "./public/img/tb/10.jpg",
+        "banda": "The Beatles",
+        "categoria": {
+            "nombre": "The Beatles",
+            "id": "thebeatles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "thebeatles-11",
+        "titulo": "Yellow Submarine",
+        "imagen": "./public/img/tb/11.jpg",
+        "banda": "The Beatles",
+        "categoria": {
+            "nombre": "The Beatles",
+            "id": "thebeatles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "thebeatles-12",
+        "titulo": "Abbey Road",
+        "imagen": "./public/img/tb/12.jpg",
+        "banda": "The Beatles",
+        "categoria": {
+            "nombre": "The Beatles",
+            "id": "thebeatles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "thebeatles-13",
+        "titulo": "Let It Be",
+        "imagen": "./public/img/tb/13.jpg",
+        "banda": "The Beatles",
+        "categoria": {
+            "nombre": "The Beatles",
+            "id": "thebeatles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "thebeatles-14",
+        "titulo": "Past Masters",
+        "imagen": "./public/img/tb/14.jpg",
+        "banda": "The Beatles",
+        "categoria": {
+            "nombre": "The Beatles",
+            "id": "thebeatles"
+        },
+        "precio": 1000
+    }
+]
