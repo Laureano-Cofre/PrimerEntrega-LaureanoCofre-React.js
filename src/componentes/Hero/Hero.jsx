@@ -13,7 +13,7 @@ const Hero = () => {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentImageIndex((prevIndex) => (prevIndex + 1) % images.length);
-    }, 3000); // Cambia la imagen cada 3 segundos
+    }, 3000);
     return () => clearInterval(interval);
   }, []);
 

@@ -14,7 +14,6 @@ const App = () => {
     const [productos, setProductos] = useState([]);
 
     useEffect(() => {
-        // Simula una llamada a una API
         setProductos(productosData);
     }, []);
 
